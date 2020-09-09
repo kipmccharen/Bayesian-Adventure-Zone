@@ -1,0 +1,109 @@
+﻿Petals to the Metal 
+
+
+Episode 1 (3 rolls)
+13 + 0 Wisdom save for Stephen
+17 + 0 Investigation check
+4 + 2 Dexterity save
+
+
+Episode 2 (8 rolls)
+16 + 7 Melee attack
+16 + 7 Melee attack (w/ advantage, never heard second roll)
+18 + 7 Melee attack
+4 + 2 Dexterity Check to open lock
+11 + 4 Strength Check to open lock
+16 + 2 Constitution Check to open lock
+13 + 7 Athletics Check
+11 + 4 Strength check
+
+
+Episode 3 (10 non-joke rolls)
+14 + the secret (joke roll)
+13 + 7 Strength Check
+7 + 5 Constitution Check
+13 + 0 Perception Check
+8 + 7 Athletics Check
+15 + 7 Melee Attack (Phantom Fist)
+0 + 0 (joke roll)
+17 + 2 Initiative Check
+9 + 5 Constitution Save
+15 + 7 Melee Attack w/ Disadvantage
+13 + 7 Melee Attack w/ Disadvantage
+17 + 2 Sleight of Hand
+
+
+Episode 4 (2 non-joke rolls)
+16 + 0 Insight Check
+4 + 0 Wisdom Save vs. Zone of Truth
+10 + 2 Sleight of Hand (joke roll)
+
+
+Episode 5 (3 rolls)
+9 + 2 Initiative
+13 + 7 Melee Attack
+12 + 2 Stealth Check
+
+
+Episode 6 (3 rolls)
+3 + 2 Initiative
+14 + 7 Melee Attack
+17 + 7 Melee Attack
+
+
+Episode 7 (12 rolls)
+15 + 2 Initiative
+19 + 7 Melee Attack
+16 + 2 Dexterity Save
+12 + 0 Perception Check
+11 + 7 Athletics Check
+16 + 7 Athletics Check
+9 + 2 Dexterity Save
+15 + 7 Melee Attack
+13 + 7 Melee Attack
+6 + 7 Melee Attack
+7 + 6 Strength Save w/ Advantage
+18 + 6 Strength Save w/ Advantage
+
+
+Episode 8 (8 rolls)
+7 + 6 Strength Save w/ Advantage
+16 + 6 Strength Save w/ Advantage
+12 + 7 Athletics Check
+13 + 7 Athletics Check
+14 + 7 Melee Attack
+16 + 7 Strength Check w/ Advantage
+16 + 7 Strength Check w/ Advantage
+11 + 7 Melee Attack
+
+
+Episode 9 (8 rolls)
+20 (Natural, as far as I could tell) Strength Check
+10 + 7 Strength Check w/ Advantage
+20 + 7 Strength Check w/ Advantage
+13 + 7 Melee Attack
+12 + 7 Melee Attack
+13 + 7 Melee Attack
+15 + 7 Melee Attack
+12 + 7 Melee Attack
+
+
+Episode 10 (6 non-joke rolls)
+12 + 0 Wisdom Save
+13 + 2 Dexterity Save
+14 + 2 Initiative
+15 + 2 Sleight of Hand
+19 + 7 Strength Check
+16 + 7 Melee Attack
+15 + 7 to punch Taako (joke roll) [Edit: In retrospect this should not have been considered a joke roll as it was to stop Taako from being overtaken by a Grand Relic, but I already made the graph so I’ll leave it as-is.]
+
+
+Episode 11: (0 counted rolls)
+20 Gashopon Roll
+
+
+
+
+Total non-joke rolls: 63
+Rolls 10 or below: 14 (23%)
+Rolls 11 or above: 49 (77%)
